@@ -1,6 +1,6 @@
 database:
-  username: "admin"
+  username: "postgres"
   password: "root"
-  host: "localhost"
-  port: 6101
+  host: "pg"
+  port: 5432
   databaseName: "postgres"
